@@ -126,3 +126,33 @@
 // }
 // console.log(FindFact(-4))
 
+// function IsLeap(year){
+//     if(year%4==0){
+//         return `${year} is leapyear...!`
+//     }else{
+//         return "Enter year is not leapyear"
+//     }
+// }
+// console.log(IsLeap(2324))
+
+// function IsLeap2(y){
+//     return y%4==0?true:false;
+// }
+// console.log(IsLeap2(409))
+//Find the digit of sum of given number...
+// function FindDigitSum(num){
+//     let res = 0;
+//     let number = num.toString();
+//     for(let i=0;i<number.length;i++){
+//      res = res + parseInt(number[i]);
+//     }
+//     return res
+// }
+// console.log(FindDigitSum(118743))
+
+//A function that find a table of some specific tables and a range...
+
+
+
+
+
